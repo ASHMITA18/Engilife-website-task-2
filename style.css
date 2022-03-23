@@ -1,0 +1,53 @@
+*{margin:0; padding:0}
+
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat",sans-serif}
+
+footer,header,main,nav,section{display:block}
+
+a:link{color:white;text-decoration:none;cursor:auto}
+
+a:visited{color:cyan;text-decoration:none;cursor:auto}
+
+a:link:active, a:visited:active {color:blue}
+
+.black{color:#fff!important;background-color:#000!important}
+
+.black:hover{color:#fff!important;background-color:#222!important}
+
+.circle{border-radius:50%;border-style:solid;border-width:15px;border-color:#000!important}
+
+.hide-small{display:none!important}
+
+.left{text-align:left!important}
+
+.left-pic{float:left!important}
+
+.large{font-size:25px!important}
+
+.light-grey{background-color:#000!important; color:#c0c0c0!important}
+
+.orange{color:#fff!important;background-color:#ff9800!important}
+
+.padding-16{padding-top:16px!important;padding-bottom:16px!important}
+
+.padding-32{padding-top:32px!important;padding-bottom:32px!important}
+
+.padding{padding-right:200px!important;padding-left:200px!important}
+
+.right{text-align:right!important;float:right!important}
+
+.small{font-size:18px!important}
+
+.text{text-decoration:none;padding:10px 10px 10px 10px}
+
+.text-light-grey{color:#c0c0c0!important}
+
+.text-black{color:#000!important}
+
+.text-padding{padding:1px 10px 1px 70px}
+
+.third{width:33.33333% !important;float:left!important}
+
+.v-small{font-size:11px !important}
+
+.xx-large{font-size:35px !important}
